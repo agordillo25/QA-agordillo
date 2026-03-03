@@ -1,0 +1,15 @@
+sing System;
+ 
+namespace GitleaksTest
+{
+    public class PruebaConPositivos
+    {
+        public void SimularCredenciales()
+        {
+            //    donkey = "glpapapasa1w1ewqwrqta1vav1bs32b4bnasdada"       
+...
+-----END RSA PRIVATE KEY-----";
+ 
+            Console.WriteLine("Este archivo es solo para pruebas de Gitleaks.");
+        }
+    }
